@@ -1,0 +1,51 @@
+{[
+    {
+      "title": "outfit 1",
+      "data": [
+        {
+          "levels": [
+            {
+              "level": 1,
+              "links": ["https://bootdey.com/img/Content/avatar/avatar6.png"],
+            },
+            {
+              "level": 2,
+              "links": [
+                "https://bootdey.com/img/Content/avatar/avatar6.png",
+                "https://bootdey.com/img/Content/avatar/avatar6.png",
+              ],
+            },
+            {
+              "level": 3,
+              "links": ["https://bootdey.com/img/Content/avatar/avatar6.png"],
+            },
+          ],
+        },
+      ],
+    },
+    {
+      title: "outfit 2",
+      data: [
+        {
+          levels: [
+            {
+              level: 1,
+              links: ["https://bootdey.com/img/Content/avatar/avatar6.png"],
+            },
+            {
+              level: 2,
+              links: [
+                "https://bootdey.com/img/Content/avatar/avatar6.png",
+                "https://bootdey.com/img/Content/avatar/avatar6.png",
+              ],
+            },
+            {
+              level: 3,
+              links: ["https://bootdey.com/img/Content/avatar/avatar6.png"],
+            },
+          ],
+        },
+      ],
+    },
+  ],
+}
